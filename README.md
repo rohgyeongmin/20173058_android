@@ -3,6 +3,6 @@
 <img width="" height="" src="./pic/2st.png.png"></img>
 
 # 3주차 과제
-<img width="" height="" src="./pic/3주차_네이버.png"></img>
-<img width="" height="" src="./pic/3주차_전화걸기.png"></img>
-<img width="" height="" src="./pic/3주차_메세지png"></img>
+<img width="" height="" src="./pic/3주차_네이버.png.png"></img>
+<img width="" height="" src="./pic/3주차_전화걸기.png.png"></img>
+<img width="" height="" src="./pic/3주차_메세지.png.png"></img>
