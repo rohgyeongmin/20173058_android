@@ -12,3 +12,7 @@
 <img width="" height="" src="./pic/Mainactivity.java 소스파일.png"></img>
 <img width="" height="" src="./pic/실행결과1.png"></img>
 <img width="" height="" src="./pic/실행결과2.png"></img>
+
+# 6주차 과제
+<img width="" height="" src="./pic/6주차1.png"></img>
+<img width="" height="" src="./pic/6주차2.png"></img>
