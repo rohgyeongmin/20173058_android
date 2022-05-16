@@ -16,3 +16,7 @@
 # 6주차 과제
 <img width="" height="" src="./pic/6주차1.png"></img>
 <img width="" height="" src="./pic/6주차2.png"></img>
+
+# 10주차 과제
+<img width="" height="" src="./pic/main.png"></img>
+<img width="" height="" src="./pic/menu.png"></img>
